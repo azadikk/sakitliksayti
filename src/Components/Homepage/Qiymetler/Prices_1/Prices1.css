@@ -1,0 +1,168 @@
+.pricesBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 135px;
+    left: 85px;
+    width: 290px;
+    height: 680px;
+    background-color: white;
+    box-shadow: 0px 0px 100px 0px rgb(0, 0, 0, 0.100);
+    border-radius: 30px;
+}
+
+.pricesBox #priceGirl {
+    position: absolute;
+    top: -3rem;
+}
+.title1 {
+    color: #393B3D;
+    font-size: 25px;
+    position: absolute;
+    top: 6rem;
+    width: 250px;
+    text-align: center;
+}
+.title1::before {
+    content: '';
+    border-bottom: 1px solid #cecece;
+    position: absolute;
+    bottom: -1.5rem;
+    width: 100%;
+    left: 0;
+}
+.title2 {
+    position: absolute;
+    font-size: 23px;
+    color: #00A7E1;
+    text-align: center;
+    top: 13rem;
+    width: 250px;
+}
+.title2::before {
+    content: '';
+    border-bottom: 1px solid #cecece;
+    position: absolute;
+    bottom: -1.5rem;
+    width: 100%;
+    left: 0;
+}
+.title3 {
+    color: #393B3D;
+    width: 250px;
+    font-size: 13px;
+    top: 20rem;
+    left: 35px;
+}
+.title3 i {
+    position: absolute;
+    left: -1.5rem;
+    font-size: 22px;
+    top: -0.5rem;
+    color: #00A7E1;
+}
+.title3::before {
+    content: '';
+    border-bottom: 1px solid #cecece;
+    position: absolute;
+    bottom: -1.5rem;
+    width: 100%;
+    left: -1rem;
+}
+
+
+
+.title4 {
+    color: #393B3D;
+    width: 250px;
+    font-size: 13px;
+    top: 23.8rem;
+    left: 35px;
+    position: absolute;
+    
+}
+.title4 i {
+    position: absolute;
+    left: -1.5rem;
+    font-size: 22px;
+    top: -0.5rem;
+    color: #00A7E1;
+}
+.title4::before {
+    content: '';
+    border-bottom: 1px solid #cecece;
+    position: absolute;
+    bottom: -1.5rem;
+    width: 100%;
+    left: -1rem;
+}
+
+
+
+.title5 {
+    color: #393B3D;
+    width: 250px;
+    font-size: 13px;
+    top: 28.8rem;
+    left: 35px;
+    position: absolute;   
+}
+.title5 i {
+    position: absolute;
+    left: -1.5rem;
+    font-size: 22px;
+    top: -0.5rem;
+    color: #00A7E1;
+}
+.title5::before {
+    content: '';
+    border-bottom: 1px solid #cecece;
+    position: absolute;
+    bottom: -1.5rem;
+    width: 100%;
+    left: -1rem;
+}
+
+
+
+.title6 {
+    color: #393B3D;
+    width: 250px;
+    font-size: 13px;
+    top: 32.8rem;
+    left: 35px;
+    position: absolute;   
+}
+.title6 i {
+    position: absolute;
+    left: -1.5rem;
+    font-size: 22px;
+    top: -0.5rem;
+    color: #00A7E1;
+}
+.title6::before {
+    content: '';
+    border-bottom: 1px solid #cecece;
+    position: absolute;
+    bottom: -1.5rem;
+    width: 100%;
+    left: -1rem;
+}
+
+.subBtn {
+    position: absolute;
+    padding: 15px 60px;
+    border-radius: 50px;
+    border: 1px solid #888;
+    box-shadow: 0px 0px 30px 0px rgb(111, 183, 224);
+    top: 37.5rem;
+    background: linear-gradient(180deg, #00A7E1 0%, #003DA6 100%);
+    color: white;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+.subBtn:hover {
+    scale: 1.1;
+}

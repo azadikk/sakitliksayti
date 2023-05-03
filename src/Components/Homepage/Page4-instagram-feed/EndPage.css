@@ -1,0 +1,119 @@
+@media screen and (max-width: 400px) {
+    .endProcess {
+        display: none;
+    }
+}
+
+.endProcess {
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    background-color: white;
+    top: 43rem;
+}
+
+/* BOX 1 */
+
+.endProcess .box1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: deepskyblue;
+    width: 227px;
+    height: 127px;
+    position: absolute;
+    border-radius: 20px;
+    left: 300px;
+    transition: 0.2s ease-in;
+    cursor: pointer;
+}
+.box1:hover {
+    width: 240px;
+    height: 130px;
+    background-color: blueviolet;
+}
+.box1 .h1 {
+    font-size: 25px;
+    color: white;
+    top: 1rem;
+}
+.box1 .h2 {
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+    top: 4rem;
+    position: absolute;
+}
+
+/* BOX 2 */
+.endProcess .box2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    width: 227px;
+    height: 127px;
+    position: absolute;
+    border-radius: 20px;
+    left: 550px;
+    transition: 0.2s ease-in;
+    cursor: pointer;
+    box-shadow: 0px 0px 30px 0px rgb(0,0,0,0.200);
+}
+.box2:hover {
+    width: 240px;
+    height: 130px;
+    background-color: rgb(253, 250, 255);
+}
+.box2 .h3 {
+    font-size: 25px;
+    color: #333333;
+    top: 1rem;
+}
+.box2 .h4 {
+    color: rgb(14, 89, 226);
+    font-size: 35px;
+    font-weight: 700;
+    top: 4rem;
+    position: absolute;
+}
+
+/* BOX 3 */
+
+.endProcess .box3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    width: 227px;
+    height: 127px;
+    position: absolute;
+    border-radius: 20px;
+    right: 320px;
+    transition: 0.2s ease-in;
+    cursor: pointer;
+    box-shadow: 0px 0px 30px 0px rgb(0,0,0,0.200);
+}
+.box3:hover {
+    width: 240px;
+    height: 130px;
+    background-color: rgb(253, 250, 255);
+}
+.box3 .h4 {
+    font-size: 25px;
+    color: #333333;
+    top: 1rem;
+}
+.box3 .h5 {
+    color: rgb(14, 89, 226);
+    font-size: 35px;
+    font-weight: 700;
+    top: 4rem;
+    position: absolute;
+}

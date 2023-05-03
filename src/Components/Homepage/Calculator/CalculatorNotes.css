@@ -1,0 +1,72 @@
+.CalcNotes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 50rem;
+  height: 35rem;
+  background-color: transparent;
+  top: 15rem;
+  right: 175px;
+}
+.CalcNotes .notes {
+  font-size: 18px;
+  color: #393b3d;
+  position: absolute;
+  left: 0px;
+  top: 0rem;
+}
+textarea {
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  resize: none;
+  padding: 15px;
+  font-size: 17px;
+}
+
+.telInfo {
+  font-size: 18px;
+  color: #393b3d;
+  position: absolute;
+  left: 0px;
+  top: 20rem;
+}
+
+#tel {
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: 1px solid #cecece;
+  position: absolute;
+  left: 0;
+  top: 23rem;
+}
+#email {
+  padding: 10px 35px;
+  text-align: start;
+  border-radius: 10px;
+  border: 1px solid #cecece;
+  position: absolute;
+  left: 190px;
+  top: 23rem;
+}
+
+.orderBtn2 {
+  position: absolute;
+  font-size: 22px;
+  top: 30rem;
+  left: 0px;
+  padding: 12px 45px;
+  border-radius: 50px;
+  border: 1px solid #999;
+  outline: none;
+  color: white;
+  transition: 0.5s all;
+  cursor: pointer;
+  font-weight: 700;
+  background: linear-gradient(180deg, #00a7e1 0%, #003da6 100%);
+}
+.orderBtn2:hover {
+  background: blueviolet;
+  scale: 1.1;
+}

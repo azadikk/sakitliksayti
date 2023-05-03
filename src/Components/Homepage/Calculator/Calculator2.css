@@ -1,0 +1,179 @@
+.calc2 .rangeTours {
+    position: absolute;
+    color: #393B3D;
+    left: 100px;
+    top: 20rem;
+    font-size: 18px;
+}
+
+.calc2 .check1 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 7px;
+    left: 90px;
+    top: 24rem;
+    color: #393B3D;
+}
+.check1 input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0px 10px;
+}
+
+
+.calc2 .check2 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 7px;
+    left: 220px;
+    top: 24rem;
+    color: #393B3D;
+}
+.check2 input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0px 10px;
+}
+
+.calc2 .check3 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 7px;
+    left: 335px;
+    top: 24rem;
+    color: #393B3D;
+}
+.check3 input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0px 10px;
+}
+
+.calc2 .check4 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 7px;
+    left: 445px;
+    top: 24rem;
+    color: #393B3D;
+}
+.check4 input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0px 10px;
+}
+
+h3 {
+    color: #393B3D;
+    position: absolute;
+    left: 100px;
+    top: 28.5rem;
+}
+
+/* TWO CHECKS !!! */
+
+.calc2 .check5 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 7px;
+    left: 90px;
+    top: 33rem;
+    color: #393B3D;
+}
+.check5 input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0px 10px;
+}
+
+.calc2 .check6 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 7px;
+    left: 220px;
+    top: 33rem;
+    color: #393B3D;
+}
+.check6 input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0px 10px;
+}
+
+.calc2 .check7 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 7px;
+    left: 335px;
+    top: 33rem;
+    color: #393B3D;
+}
+.check7 input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0px 10px;
+}
+
+.calc2 .check8 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 7px;
+    left: 445px;
+    top: 33rem;
+    color: #393B3D;
+}
+.check8 input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0px 10px;
+}
+
+.calc2 .check9 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 7px;
+    left: 550px;
+    top: 33rem;
+    color: #393B3D;
+}
+.check9 input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0px 10px;
+}

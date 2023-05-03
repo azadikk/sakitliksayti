@@ -1,0 +1,15 @@
+.map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    margin: auto;
+    height: 540px;
+    top: 634rem;
+}
+.map img {
+    width: 97%;
+    border: 1px solid #cecece;
+    cursor: pointer;
+}

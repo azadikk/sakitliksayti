@@ -1,0 +1,192 @@
+.questions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 750px;
+    top: 520rem;
+    position: absolute;
+    background-color: whitesmoke;
+}
+
+.questions .box-Question {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative;
+    width: 900px;
+    height: 200px;
+    background-color: white;
+    box-shadow: 0px 0px 50px 0px rgb(0, 0, 0, 0.100);
+    transition: 0.3s ease;
+    top: -6rem;
+}
+
+.box-Question .titleLorem {
+    color: #00A7E1;
+    font-size: 22px;
+    position: absolute;
+    top: 1.5rem;
+    left: 4.5rem;
+}
+
+.titleLorem2 {
+    font-size: 16px;
+    position: absolute;
+    top: 4.5rem;
+}
+
+.questions .box-Question {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative;
+    width: 900px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 0px 0px 50px 0px rgb(0, 0, 0, 0.100);
+    transition: 0.3s ease;
+    margin-top: -50px;
+    color: #282828;
+}
+.box-Question .titleLorem3 {
+    font-size: 20px;
+    position: absolute;
+    left: 50px;
+}
+
+
+.questions .box-Question {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative;
+    width: 900px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 0px 0px 50px 0px rgb(0, 0, 0, 0.100);
+    transition: 0.3s ease;
+    margin-top: 20px;
+    color: #282828;
+}
+.box-Question .titleLorem4 {
+    font-size: 20px;
+    position: absolute;
+    left: 50px;
+}
+
+.questions .box-Question {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative;
+    width: 900px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 0px 0px 50px 0px rgb(0, 0, 0, 0.100);
+    transition: 0.3s ease;
+    margin-top: 20px;
+    color: #282828;
+}
+.box-Question .titleLorem5 {
+    font-size: 20px;
+    position: absolute;
+    left: 50px;
+}
+
+.box-Question:nth-child(2){
+    height: 200px;
+}
+
+.box-Question .more {
+    font-size: 30px;
+    padding: 10px 30px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: #00A7E1;
+    font-weight: 1000;
+    position: absolute;
+    right: 0;
+    top: 0.5rem;
+    cursor: pointer;
+    transition: 0.1s ease;
+}
+.more:hover {
+    scale: 1.1;
+    color: blue;
+}
+.more:active {
+    transform: translateY(3px);
+}
+
+.box-Question .more2 {
+    font-size: 30px;
+    padding: 10px 30px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: #282828;
+    font-weight: 1000;
+    position: absolute;
+    right: 0;
+    top: 0rem;
+    cursor: pointer;
+    transition: 0.1s ease;
+}
+.more2:hover {
+    scale: 1.1;
+    color: blue;
+}
+.more2:active {
+    transform: translateY(3px);
+}
+
+.box-Question .more3 {
+    font-size: 30px;
+    padding: 10px 30px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: #282828;
+    font-weight: 1000;
+    position: absolute;
+    right: 0;
+    top: 0rem;
+    cursor: pointer;
+    transition: 0.1s ease;
+}
+.more3:hover {
+    scale: 1.1;
+    color: blue;
+}
+.more3:active {
+    transform: translateY(3px);
+}
+
+.box-Question .more4 {
+    font-size: 30px;
+    padding: 10px 30px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: #282828;
+    font-weight: 1000;
+    position: absolute;
+    right: 0;
+    top: 0rem;
+    cursor: pointer;
+    transition: 0.1s ease;
+}
+.more4:hover {
+    scale: 1.1;
+    color: blue;
+}
+.more4:active {
+    transform: translateY(3px);
+}

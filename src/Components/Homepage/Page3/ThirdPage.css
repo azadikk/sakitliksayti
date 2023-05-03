@@ -1,0 +1,161 @@
+.thirdPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    height: 1100px;
+    top: 121rem;
+    background-color: white;
+}
+.thirdPage .title {
+    position: absolute;
+    font-size: 40px;
+    top: 5rem;
+    color: #393B3D;
+    font-weight: 700;
+    border-bottom: 3px solid deepskyblue;
+}
+.thirdPage .subBtn {
+    position: absolute;
+    font-size: 22px;
+    top: 5rem;
+    right: 5rem;
+    padding: 10px 20px;
+    border-radius: 50px;
+    border: 1px solid #999;
+    outline: none;
+    color: white;
+    background-color: deepskyblue;
+}
+
+.thirdPage .thirdContent {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.thirdContent #image1 {
+    position: absolute;
+    bottom: 190px;
+    left: 260px;
+}
+
+.thirdContent #image2 {
+    position: absolute;
+    bottom: 190px;
+    right: -5rem;
+}
+.thirdContent #image3 {
+    position: absolute;
+    bottom: 190px;
+    right: 260px;
+}
+
+.thirdContent #image4 {
+    position: absolute;
+    top: 0px;
+    left: 260px;
+}
+
+.thirdContent #image5 {
+    position: absolute;
+    top: 0rem;
+    right: -8rem;
+}
+
+.thirdContent #image6 {
+    position: absolute;
+    top: -2rem;
+    right: 16rem;
+}
+
+.thirdContent #image7 {
+    position: absolute;
+    bottom: 100px;
+    left: 250px;
+}
+.thirdContent #image8 {
+    position: absolute;
+    top: 16rem;
+    right: -10rem
+}
+
+.thirdContent #image9 {
+    position: absolute;
+    bottom: 50px;
+    right: 250px;
+}
+
+.thirdContent #image10 {
+    position: absolute;
+    bottom: 100px;
+    right: -105px;
+}
+
+.thirdContent #cevre1, #cevre2, #cevre3, #cevre4 {
+    position: absolute;
+}
+.thirdContent #cevre1 {
+    bottom: 130px;
+}
+.thirdContent #cevre2 {
+    bottom: 130px;
+    left: 340px;
+}
+.thirdContent #cevre3 {
+    bottom: 130px;
+    right: 360px;
+}
+.thirdContent #cevre4 {
+    top: 11.1rem;
+    left: 0px;
+}
+.thirdContent #one {
+    position: absolute;
+    bottom: 146px;
+    left: -390px;
+}
+.thirdContent #two {
+    position: absolute;
+    bottom: 146px;
+    left: -5px;
+}
+.thirdContent #three {
+    position: absolute;
+    bottom: 146px;
+    left: 358px;
+}
+.thirdContent #five {
+    position: absolute;
+    top: 12.1rem;
+    left: 18px;
+}
+.thirdContent #frame1 {
+    position: absolute;
+    left: 25rem;
+    bottom: -13rem;
+    width: 240px;
+    transform: rotate(-3.5deg);
+}
+.thirdContent #frame2 {
+    position: absolute;
+    left: 3rem;
+    bottom: -14rem;
+}
+.thirdContent #frame3 {
+    position: absolute;
+    left: -21rem;
+    bottom: -14rem;
+}
+.thirdContent #frame4 {
+    position: absolute;
+    left: -22rem;
+    bottom: 8.8rem;
+}
+.thirdContent #frame5 {
+    position: absolute;
+    left: 1.5rem;
+    bottom: 8.8rem;
+}

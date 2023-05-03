@@ -1,0 +1,106 @@
+.fourPage {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    position: absolute;
+    background-color: transparent;
+    top: 325rem;
+}
+
+.fourPage .SpecialAndMinimalize {
+    color: #393B3D;
+    font-size: 35px;
+    position: absolute;
+    top: 3.5rem;
+    border-bottom: 3px solid  #00A7E1;
+}
+.fourPage img {
+    width: 250px;
+    border-radius: 20px;
+}
+.fourPage .box {
+    width: 250px;
+    height: 280px;
+    background-color: indianred;
+    border-radius: 20px;
+}
+.fourPage #img3 {
+    position: absolute;
+    width: 250px;
+}
+
+.fourPage #img3-Repeat {
+    position: absolute;
+    width: 250px;
+    left: 6.3rem;
+}
+.fourPage .firstTitles {
+    position: absolute;
+    left: 7.5rem;
+    color: white;
+    font-weight: 1000;
+    font-size: 33px;
+    z-index: 1;
+    top: 12rem;
+}
+.fourPage .lorem {
+    position: absolute;
+    font-size: 15px;
+    top: 7rem;
+    width: 200px;
+    font-weight: normal;
+}
+
+
+
+.fourPage .firstTitles2 {
+    position: absolute;
+    left: 7.5rem;
+    color: white;
+    font-weight: 1000;
+    font-size: 33px;
+    z-index: 1;
+    top: 12rem;
+    left: 36rem;
+}
+.fourPage .lorem2 {
+    position: absolute;
+    font-size: 15px;
+    top: 7rem;
+    width: 200px;
+    font-weight: normal;
+}
+
+
+
+.fourPage .firstTitles3 {
+    position: absolute;
+    right: 7.8rem;
+    color: white;
+    font-weight: 1000;
+    font-size: 33px;
+    z-index: 1;
+    top: 12rem;
+}
+.fourPage .lorem3 {
+    position: absolute;
+    font-size: 15px;
+    top: 7rem;
+    width: 200px;
+    font-weight: normal;
+}
+.fourPage .firstTitles:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.fourPage .firstTitles2:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.fourPage .firstTitles3:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

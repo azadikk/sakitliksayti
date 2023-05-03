@@ -1,0 +1,88 @@
+.feedPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 700px;
+    top: 185rem;
+    background-color: whitesmoke;
+    position: absolute;
+}
+.feedPage h1 {
+    color: #393B3D;
+    font-size: 40px;
+    font-weight: 700;
+    top: 3rem;
+    position: absolute;
+    border-bottom: 3px solid deepskyblue;
+}
+.feedPage .layoutBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    top: -5rem;
+}
+
+.layoutBox #insta {
+    width: 250px;
+    position: absolute;
+    right: 20rem;
+    top: -6rem;
+    transition: 0.3s all;
+}
+#insta:hover {
+    width: 260px;
+}
+
+.layoutBox #instaLogo {
+    position: absolute;
+    right: 25.5rem;
+    top: 0rem;
+}
+
+.layoutBox #houseRepeat{
+    position: absolute;
+    right: 20rem;
+    top: -5.5rem;
+    width: 250px;
+    mix-blend-mode: multiply;
+    opacity: 0.7;
+    transition: 0.3s all;
+}
+#houseRepeat:hover {
+    width: 260px;
+}
+.layoutBox #house {
+    width: 240px;
+    position: absolute;
+    left: 30rem;
+    top: -6rem;
+    left: -18rem;
+    transition: 0.3s all;
+}
+#house:hover {
+    width: 250px;
+}
+.layoutBox #house2 {
+    width: 270px;
+    position: absolute;
+    left: 0rem;
+    top: -6rem;
+    transition: 0.3s all;
+}
+#house2:hover {
+    width: 280px;
+}
+.layoutBox #house3 {
+    width: 280px;
+    position: absolute;
+    right: -37rem;
+    top: -6rem;
+    width: 270px;
+    transition: 0.3s all;
+}
+#house3:hover {
+    width: 290px;
+}

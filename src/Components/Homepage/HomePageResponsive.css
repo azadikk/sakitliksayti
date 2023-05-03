@@ -1,0 +1,668 @@
+@media only screen and (max-width: 768px) {
+  .Homepage {
+    width: 100%;
+  }
+  .header-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 6;
+  }
+  .header-top #frame {
+    left: -5rem;
+    top: 1rem;
+  }
+  .header-top #telephone {
+    left: -7.2rem;
+  }
+  .header-top #number {
+    left: -7rem;
+  }
+  .header-top #mail {
+    left: 1.5rem;
+  }
+  .header-top #e-mail {
+    left: 3rem;
+  }
+  .header-top #cinecon {
+    left: 0rem;
+    width: 70px;
+    top: 3rem;
+  }
+
+
+
+
+
+  /* CONTENT COMPONENT */
+  .content .text {
+    left: 1rem;
+    top: 0;
+    font-size: 30px;
+  }
+  .content #bir-gunde-menzillerde {
+    font-size: 20px;
+    left: 1rem;
+    top: 5rem;
+  }
+  .content .text2 {
+    font-size: 20px;
+    left: 1rem;
+    top: 7rem;
+  }
+  .content .orderBtn2 {
+    left: 1rem;
+    top: 11rem;
+    font-size: 15px;
+    padding: 10px 20px;
+  }
+  .content .subBtn {
+    left: 1rem;
+    top: 14rem;
+    font-size: 15px;
+    padding: 10px 20px;
+  }
+  .content .Bam-art {
+    display: none;
+  }
+  .content .girl {
+    width: 200px;
+    top: 6rem;
+  }
+  .content .articleBox {
+    left: 0;
+    top: 0;
+  }
+  .articleBox p {
+    font-size: 15px;
+  }
+
+  /* CompanyAbout Component; */
+  .companyAbout #bina {
+    width: 320px;
+    left: 0.3rem;
+    display: block;
+    margin-top: -23rem;
+  }
+  .companyAbout #binaBorder {
+    width: 320px;
+    left: 0.9rem;
+    display: block;
+    margin-top: -24.5rem;
+  }
+  .companyAbout #text-area-h1 {
+    left: 1.5rem;
+    top: 0;
+  }
+  .companyAbout p {
+    left: 0;
+    width: 100%;
+    top: 5rem;
+    text-align: center;
+  }
+
+  /* SECOND PAGE component; */
+  .secondPage {
+    top: 75rem;
+  }
+  .secondPage h1 {
+    font-size: 25px;
+  }
+  .secondPage p {
+    font-size: 15px;
+    top: 5rem;
+  }
+  .secondPage .layouts .lay1 #finger {
+    position: absolute;
+    top: -5rem;
+    left: 8rem;
+  }
+  .lay1 #text {
+    font-size: 13px;
+    top: 0rem;
+    left: 5rem;
+  }
+  .layouts .lay2 #finger {
+    left: 8rem;
+    top: 8rem;
+  }
+  .lay2 #text {
+    left: 5rem;
+    top: 13.5rem;
+    font-size: 13px;
+  }
+  .layouts .lay3 {
+    display: none;
+  }
+  .layouts .lay4 {
+    display: none;
+  }
+
+  /* THIRD PAGE component; */
+  .thirdPage {
+    display: none;
+  }
+  /* INSTAGRAM FEED component */
+  .feedPage .endProcess {
+    display: none;
+  }
+  .feedPage {
+    top: 107rem;
+    height: 1600px;
+  }
+  .feedPage #insta {
+    top: -35rem;
+    left: -8rem;
+  }
+  .feedPage #houseRepeat {
+    top: -35rem;
+    left: -8rem;
+  }
+  .feedPage #instaLogo {
+    top: -28.5rem;
+    left: -2.5rem;
+  }
+  .feedPage #house {
+    top: -17rem;
+    left: -8rem;
+  }
+  .feedPage #house2 {
+    left: -8rem;
+    top: 1rem;
+  }
+  .feedPage #house3 {
+    left: -8rem;
+    top: 20rem;
+  }
+  /* CALCULATOR component */
+  .Calculator {
+    top: 207.5rem;
+    height: 1000px;
+  }
+  .Calculator .calc {
+    font-size: 25px;
+    left: 7.5rem;
+  }
+  .Calculator .calcText {
+    font-size: 13px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    top: 4.3rem;
+  }
+  .Calculator .doorSizeEnter {
+    font-size: 15px;
+    left: 1rem;
+    top: 10rem;
+    border-top: 2px solid rgb(95, 92, 92);
+    width: 100%;
+  }
+  .Calculator #length {
+    left: 0.5rem;
+    top: 12rem;
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+  .Calculator #width {
+    left: 0.5rem;
+    padding: 5px 10px;
+    font-size: 12px;
+    top: 13.9rem;
+  }
+  .Calculator #height {
+    left: 0.5rem;
+    padding: 5px 10px;
+    font-size: 12px;
+    top: 15.8rem;
+  }
+  .Calculator .calc2 .rangeTours {
+    font-size: 16px;
+    left: 1rem;
+    border-top: 2px solid rgb(95, 92, 92);
+    width: 100%;
+  }
+  .calc2 .check1 {
+    position: absolute;
+    left: 0.5rem;
+    top: 22rem;
+    font-size: 6px;
+  }
+  .calc2 .check2 {
+    position: absolute;
+    left: 6rem;
+    top: 22rem;
+    font-size: 6px;
+  }
+  .calc2 .check3 {
+    position: absolute;
+    left: 11.3rem;
+    top: 22rem;
+    font-size: 6px;
+  }
+  .calc2 .check4 {
+    position: absolute;
+    left: 0.5rem;
+    top: 23.7rem;
+  }
+  .calc2 h3 {
+    font-size: 16px;
+    left: 1rem;
+    top: 25.5rem;
+    border-top: 2px solid rgb(95, 92, 92);
+  }
+  .calc2 .check5 {
+    position: absolute;
+    left: 0.6rem;
+    top: 28rem;
+  }
+  .calc2 .check6 {
+    position: absolute;
+    left: 6rem;
+    top: 28rem;
+  }
+  .calc2 .check7 {
+    position: absolute;
+    left: 11.3rem;
+    top: 28rem;
+  }
+  .calc2 .check8 {
+    position: absolute;
+    left: 11.3rem;
+    top: 30rem;
+  }
+  .calc2 .check9 {
+    position: absolute;
+    left: 0.6rem;
+    top: 30rem;
+  }
+  .Calculator .CalcNotes {
+    left: 0;
+  }
+  .CalcNotes textarea {
+    left: 3rem;
+    top: 10rem;
+    width: 250px;
+    height: 160px;
+  }
+  .CalcNotes .notes {
+    font-size: 25px;
+    top: 6rem;
+    border-bottom: 2px solid rgb(95, 92, 92);
+    border-top: 2px solid rgb(95, 92, 92);
+    width: 100%;
+    left: 0;
+    text-align: center;
+  }
+  .CalcNotes .telInfo {
+    font-size: 16px;
+    left: 6.4rem;
+    top: 21rem;
+  }
+  .CalcNotes #tel {
+    padding: 5px 10px;
+    left: 5.5rem;
+  }
+  .CalcNotes #email {
+    padding: 5px 10px;
+    left: 5.5rem;
+    top: 25rem;
+  }
+  .CalcNotes .orderBtn2 {
+    left: 5.5rem;
+    font-size: 15px;
+    padding: 10px 50px;
+  }
+  /* FourPage component (page4_) */
+
+  .fourPage {
+    top: 272rem;
+  }
+  .fourPage .SpecialAndMinimalize {
+    font-size: 20px;
+    top: 0;
+  }
+  .fourPage #img1 {
+    width: 200px;
+    display: block;
+    margin-top: 3rem;
+  }
+  .fourPage .firstTitles {
+    display: block;
+    margin-top: 20.6rem;
+    left: 4.5rem;
+    font-size: 25px;
+  }
+  .fourPage .firstTitles2 {
+    display: none;
+  }
+  .fourPage .firstTitles3 {
+    display: none;
+  }
+
+  .fourPage #img2 {
+    width: 200px;
+    display: block;
+    margin-top: 0.5rem;
+  }
+  .fourPage #img3-Repeat {
+    width: 200px;
+    top: 3rem;
+    left: 4rem;
+  }
+  .fourPage #img3 {
+    display: none;
+  }
+  .fourPage .box {
+    width: 200px;
+    height: 250px;
+    margin-top: 1rem;
+  }
+
+  /* FIVE PAGE (page5_) */
+
+  .fivePage .layiheNum {
+    font-size: 30px;
+    width: 400px;
+    left: 0rem;
+    border-top: 3px solid rgb(95, 92, 92);
+    border-bottom: 3px solid rgb(95, 92, 92);
+    width: 100%;
+    text-align: center;
+    top: 325rem;
+    display: none;
+  }
+  .fivePage .titleTwo {
+    font-size: 17px;
+    width: 100%;
+    left: 0;
+  }
+  .fivePage #bgPage {
+    display: none;
+  }
+  .fivePage #PageBackg {
+    width: 290px;
+    height: 200px;
+    display: block;
+    margin-top: 33rem;
+  }
+  .fivePage .texting {
+    font-size: 15px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+  }
+  .fivePage .texting2 {
+    font-size: 15px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+  }
+  .fivePage #next {
+    display: block;
+    margin-top: 32.5rem;
+    font-size: 25px;
+    padding: 5px 40px;
+    left: 10rem;
+  }
+  .fivePage #prev {
+    display: block;
+    margin-top: 32.5rem;
+    font-size: 25px;
+    padding: 5px 40px;
+    left: 4rem;
+    text-align: center;
+  }
+  .fivePage #PageBackg2 {
+    width: 290px;
+    height: 200px;
+    display: block;
+    margin-top: 33rem;
+  }
+
+  /* PARTNERS component */
+  .partners {
+    display: none;
+  }
+  /* VIDEOS component */
+  .Videos #video-lar {
+    top: 400rem;
+    position: absolute;
+    display: block;
+    margin-top: -6rem;
+  }
+  .Videos #houseBG {
+    width: 100%;
+    height: 100vh;
+  }
+  .Videos #transparentBG {
+    width: 100%;
+    height: 100vh;
+  }
+  .Videos .my-videos {
+    width: 300px;
+    height: 140px;
+    position: relative;
+    top: -10.5rem;
+  }
+  .Videos #radio1 {
+    left: 3rem;
+    top: 33rem;
+  }
+  .Videos #radio2 {
+    left: 9rem;
+    top: 33rem;
+  }
+  .Videos #radio3 {
+    left: 14.6rem;
+    top: 33rem;
+  }
+
+  /* QIYMETLER (PRICES) component page */
+  .MainPricesPage {
+    height: 200rem;
+    z-index: 5;
+    top: 450rem;
+  }
+  .MainPricesPage .prices {
+    display: block;
+    margin-top: -2rem;
+  }
+  .MainPricesPage .pricesBox {
+    left: 1.6rem;
+  }
+  .MainPricesPage .pricesBox2 {
+    left: 1.6rem;
+    top: 53rem;
+  }
+  .MainPricesPage .pricesBox3 {
+    left: 1.6rem;
+    top: 98rem;
+  }
+  .MainPricesPage .pricesBox4 {
+    left: 1.6rem;
+    top: 143rem;
+  }
+  /* QUESTIONS component page */
+  .questions {
+    top: 656rem;
+    z-index: 6;
+    height: 700px;
+  }
+  .questions .prices {
+    display: block;
+    margin-top: -12rem;
+    border-top: 3px solid deepskyblue;
+    text-align: center;
+  }
+  .questions .box-Question {
+    width: 300px;
+    top: -7rem;
+}
+.box-Question .titleLorem {
+    font-size: 15px;
+    width: 100%;
+    left: 0.5rem;
+}
+.box-Question .more {
+    top: 2rem;
+}
+.box-Question .more2 {
+    top: 2rem;
+}
+.box-Question .more3 {
+    top: 2rem;
+}
+.box-Question .more4 {
+    top: 2rem;
+}
+.box-Question .titleLorem2 {
+    font-size: 12px;
+    width: 100%;
+    text-align: center;
+}
+.box-Question .titleLorem3 {
+    font-size: 15px;
+    text-align: center;
+    left: 0;
+}
+.box-Question .titleLorem4 {
+    font-size: 15px;
+    text-align: center;
+    left: 0;
+}
+.box-Question .titleLorem5 {
+    font-size: 15px;
+    text-align: center;
+    left: 0;
+}
+
+/* QUESTION 2 component (SUALLARIN VAR ?) ___ _)  */
+    .questions2 {
+        z-index: 6;
+        top: 700rem;
+        height: 1000px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .questions2 img {
+        width: 100%;
+        height: 100%;
+    }
+    .questions2 .suallarinizvar {
+        font-size: 30px;
+        left: 0.5rem;
+        top: 3rem;
+    }
+    .questions2 .formudoldurun {
+        font-size: 15px;
+        left: 0.5rem;
+        text-align: start;
+        top: 6rem;
+    }
+    .questions2 .loginBox {
+        left: -0.8rem;
+        width: 300px;
+        height: 500px;
+        top: -5rem;
+    }
+    .questions2 .loginBox input {
+        font-size: 16px;
+    }
+    .loginBox #nameSurname {
+        left: 1.5rem;
+        width: 250px;
+    }
+    .loginBox #yourMail {
+        left: 1.5rem;
+        width: 250px;
+    }
+    .loginBox #yourTelephone {
+        left: 1.5rem;
+        width: 250px;
+    }
+    .loginBox #yourMessage {
+        left: 1.5rem;
+        width: 250px;
+    }
+    .questions2 .subBtn {
+        position: absolute;
+        right: 6.3rem;
+        top: 35rem;
+    }
+
+
+/* CONTACT KOMPONENT */
+
+
+    .contact {
+      top: 800rem;
+    }
+    .contact .contactBackg {
+      display: none;
+    }
+    .contact .telBox {
+      left: 2rem;
+      top: -30rem;
+    }
+    .contact .mailBox {
+      left: 2rem;
+      top: -10rem;
+    }
+    .contact .adressBox {
+      left: 2rem;
+      top: 10rem;
+    }
+
+/* MAP COMPONENT */
+    .map {
+      top: 830rem;
+      z-index: 6;
+      height: 290px;
+    }
+    .map #mapBg {
+      width: 100%;
+      height: 200px;
+    }
+
+
+    /* END COMPONENT (FINISH) */
+    .end { 
+      z-index: 6;
+      top: 850rem;
+    }
+    .end img {
+      width: 60px;
+      left: 0;
+      top: 9.4rem;
+    }
+    .end .footerNav {
+      left: 0;
+    }
+    .footerNav .items {
+      margin: 0;
+      font-size: 14px;
+    }
+    .end #face {
+      left: -2rem;
+      top: -3rem;
+    }
+    .end #insta2 {
+      left: -2.5rem;
+      top: -3rem;
+    }
+    .end #linkedin {
+      left: -3rem;
+      top: -3rem;
+    }
+    .end #telegram {
+      left: -3.4rem;
+      top: -3rem;
+    }
+    .end #youtube {
+      left: -4rem;
+      top: -3rem;
+    }
+}

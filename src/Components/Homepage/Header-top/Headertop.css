@@ -1,0 +1,96 @@
+.header-top {
+    width: 100%;
+    height: 103px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    position: absolute;
+}
+
+.header-top #frame {
+    position: absolute;
+    left: 100px;
+    width: 5rem;
+}
+#telephone {
+    position: absolute;
+    left: 400px;
+}
+#flag {
+    position: absolute;
+    right: 20rem;
+    border-radius: 50px;
+}
+#cinecon {
+    position: absolute;
+    right: 5rem;
+    mix-blend-mode: multiply;
+}
+.header-top #mail {
+    position: absolute;
+}
+#chevron {
+    position: absolute;
+    right: 18.5rem;
+    cursor: pointer;
+    transition: 0.1s ease-out;
+}
+#chevron:hover {
+    scale: 1.1;
+}
+#number {
+    font-size: 16px;
+    color: #393B3D;
+    position: absolute;
+    left: 26.6rem;
+}
+#e-mail {
+    font-size: 16px;
+    color: #393B3D;
+    position: absolute;
+    right: 31.7rem;
+}
+
+.languageDiv {
+    position: relative;
+    background-color: whitesmoke;
+    width: 35px;
+    height: 70px;
+    left: 23.8rem;
+    top: 2.7rem;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+}
+#tr {
+    font-size: 18px;
+    position: absolute;
+    top: 0;
+    color: #282828;
+    cursor: pointer;
+}
+#tr:hover {
+    text-decoration: underline;
+}
+#en {
+    font-size: 18px;
+    position: absolute;
+    top: 1.5rem;
+    color: #282828;
+    cursor: pointer;
+}
+#en:hover {
+    text-decoration: underline;
+}
+#ru {
+    font-size: 18px;
+    position: absolute;
+    top: 3rem;
+    left: 0;
+    color: #282828;
+    cursor: pointer;
+}
+#ru:hover {
+    text-decoration: underline;
+}

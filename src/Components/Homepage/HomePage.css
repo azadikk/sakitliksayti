@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Nunito+Sans:wght@300;400&family=Oswald:wght@300&family=Poppins:wght@500&family=Quicksand:wght@300&family=Roboto:wght@300;400&family=Ubuntu&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.Homepage {
+    width: 100%;
+    height: 895px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: #E2E9EC;
+}
+

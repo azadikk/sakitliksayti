@@ -1,0 +1,47 @@
+.Videos {
+    width: 100%;
+    height: 568px;
+    opacity: 85%;
+    top: 423.5rem;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;    
+}
+.Videos #houseBG {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 55%;
+}
+.Videos #transparentBG {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.Videos .Videos2 {
+    position: absolute;
+    z-index: 2;
+    top: 15rem;
+}
+.Videos2 .my-videos {
+    margin: 0px 50px;  
+    height: 190px;
+    width: 330px;
+}
+
+.Videos input[type="radio"] {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    z-index: 5;
+    top: 30rem;
+}
+#radio2 {
+    left: 37rem;
+}
+#radio3 {
+    right: 37rem;
+}
